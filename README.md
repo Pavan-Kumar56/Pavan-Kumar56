@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pavan-Kumar56
+- 👀 I’m interested in Cars
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Santa Claus doesn't exist.
