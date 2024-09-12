@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Pavan-Kumar56
+- 👋 Hi, I’m Pavan-Kumar
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
